@@ -1,0 +1,5 @@
+# Config with the Velodyne 3D laser, using the standard model   
+
+JACKAL_LASER=0
+JACKAL_LASER_3D=1
+JACKAL_LASER_3D_MODEL=vlp16
